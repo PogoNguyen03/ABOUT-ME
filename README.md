@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Canh Phong</h1>
+<h1 align="center">Hi 👋, I' Nguyen Canh Phong</h1>
 <h3 align="center">As a student at HUFLIT University, I have achieved notable accolades such as being an excellent student of the university and a distinguished student at the faculty level. With diverse programming experience in website development, mobile applications, and game development, I continuously strive to enhance my technical skills and apply my knowledge to real-world projects. I am eager to seek opportunities in a professional environment where I can fully utilize my capabilities and contribute to the company's growth.</h3>
 
 <h3 align="left">Connect with me:</h3>
